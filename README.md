@@ -1,8 +1,28 @@
-#### Hello, my name is Chad Diaz :wave:
-I am extremely passionate about everything backend and database management. 
-- :computer: I’m currently working on expanding my knowledge in SQL, Express.js and React.js and have a few personal projects in the making
-- :pencil2: I’m currently learning Redux Hooks, Firebase, Docker, and Typescript
-- :email: How to reach me: [linkedIn](https://www.linkedin.com/in/chad-diaz-md/)
-- :cat2: Fun fact: I adore cats, I have extensive experience in management, I often have dreams about solving solutions for my codebase
+### Chad Diaz
+**AI Workflow & Implementation Engineer** · Frederick, MD
 
-[![Chad's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaddiaz&count_private=true&show_icons=true&theme=jolly)](https://github.com/chaddiaz/github-readme-stats)
+Operations leader turned engineer. After eighteen years running and growing businesses, I build the developer tools, automations, and AI training that teams actually use — designing enablement programs, shipping agent workflows, and getting people productive with AI. Equally comfortable shipping code and leading a room.
+
+---
+
+🔭 **What I'm doing now**
+- Building **MCP servers** and **AI agent workflows** on Anthropic's Claude (Claude Code, Claude Desktop)
+- Designing and running **hands-on AI enablement** programs for teams of 5 to 25+
+- Shipping production automations, dashboards, and custom WordPress plugins
+
+🛠️ **What I work with**
+- **AI & Automation:** Claude Code · Model Context Protocol (MCP) servers · AI agents & agent workflows · prompt engineering
+- **Languages & Web:** JavaScript / Node.js · PHP · WordPress plugin dev (ACF, custom post types) · REST APIs
+- **Infra & Tooling:** Cloudflare Workers · OpenTelemetry · CI security & dependency audits · vitest · semantic search · Git
+
+📦 **Selected work**
+- **trello-mcp** — production MCP server on Cloudflare Workers connecting AI agents to Trello, with automated health checks, a vitest suite, and CI-enforced security audits
+- **Claude Telemetry Dashboard** — observability for Claude Code usage across an org, built on OpenTelemetry
+- **ERP Order Automation** — MCP server that scores live ERP orders by weighted priority and emails scheduled operations briefings
+- **Custom WordPress Plugins** — multi-client plugin work (custom login, fund-campaign features) built with ACF and custom post types, deployed to production
+
+📫 **Reach me**
+- LinkedIn: [chad-diaz-md](https://www.linkedin.com/in/chad-diaz-md/)
+- Email: chadcdiaz@gmail.com
+
+<sub>💡 Fun fact: I've led stores up to $55M in revenue and 200+ staff — and I still dream about debugging.</sub>
